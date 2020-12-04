@@ -1,3 +1,0 @@
-= My New Page
-
-== Some stuff
